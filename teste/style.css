@@ -19,16 +19,11 @@ button{
     display: flex;
 }
 
-.bt div{
-    text-align: center;
-    align-content: center;
-}
-
-
 div{
     display: flex;
     flex: 1 1 100px;
     max-height:fit-content;
     text-align: center;
     align-content: center;
+
 }
